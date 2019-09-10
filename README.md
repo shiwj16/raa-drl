@@ -5,7 +5,7 @@ The algorithm is based on the paper [Regularized Anderson Acceleration for Off-P
 (https://arxiv.org/pdf/1909.03245.pdf) presented at NeurIPS 2019.
 
 This implementation uses [PyTorch](https://github.com/pytorch/pytorch) and Python 3.6.
-Method is tested on [MuJoCo](http://www.mujoco.org/) continuous control tasks and [Atari 2600] (https://github.com/openai/atari-py)
+Method is tested on [MuJoCo](http://www.mujoco.org/) continuous control tasks and [Atari 2600](https://github.com/openai/atari-py)
 in [OpenAI Gym v2](https://github.com/openai/gym). 
 
 ### Usage
