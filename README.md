@@ -1,8 +1,7 @@
 # Regularized Anderson Acceleration for Off-Policy Deep Reinforcement Learning
 
 Regularized Anderson Acceleration (RAA) is a general acceleration framework for off-policy deep reinforcement learning. 
-The algorithm is based on the paper [Regularized Anderson Acceleration for Off-Policy Deep Reinforcement Learning]
-(https://arxiv.org/pdf/1909.03245.pdf) presented at NeurIPS 2019.
+The algorithm is based on the paper [Regularized Anderson Acceleration for Off-Policy Deep Reinforcement Learning](https://arxiv.org/pdf/1909.03245.pdf) presented at NeurIPS 2019.
 
 This implementation uses [PyTorch](https://github.com/pytorch/pytorch) and Python 3.6.
 Method is tested on [MuJoCo](http://www.mujoco.org/) continuous control tasks and [Atari 2600](https://github.com/openai/atari-py)
