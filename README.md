@@ -8,7 +8,7 @@ Method is tested on [MuJoCo](http://www.mujoco.org/) continuous control tasks an
 in [OpenAI Gym v2](https://github.com/openai/gym). 
 
 ### Usage
-The paper results can be reproduced exactly by running:
+The paper results can be reproduced by running:
 
 For RAA-DuelingDQN
 ```
