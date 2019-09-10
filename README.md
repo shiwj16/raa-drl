@@ -20,13 +20,13 @@ For RAA-TD3
 ./RAA-TD3/run_mujoco.sh
 ```
 
-Hyper-parameters can be modified with different arguments to main.py. We include an implementation of DuelingDQN (./RAA-DuelingDQN/src/dqn.py) for 
-easy comparison of hyper-parameters with RAA-DuelingDQN and an implementation of TD3 (./RAA-TD3/src/TD3.py) for 
+Hyper-parameters can be modified with different arguments to main.py. We include an implementation of DuelingDQN (/RAA-DuelingDQN/src/dqn.py) for 
+easy comparison of hyper-parameters with RAA-DuelingDQN and an implementation of TD3 (/RAA-TD3/src/TD3.py) for 
 easy comparison of hyper-parameters with RAA-TD3. 
 
 ### Results
-Learning curves found in the paper are found under ./learning_curves. 
-Some experimental data and saved models are found under ./RAA-DuelingDQN/logs and ./RAA-TD3/logs.
+Learning curves found in the paper are found under /learning_curves. 
+Some experimental data and saved models are found under /RAA-DuelingDQN/logs and /RAA-TD3/logs.
 Numerical results can be found in the paper, or from the learning curves.
 
 ### Reference
