@@ -44,7 +44,7 @@ if __name__ == "__main__":
     parser.add_argument("--save_models", action="store_true")           # Whether or not models are saved
     parser.add_argument("--expl_noise", default=0.1, type=float)        # Std of Gaussian exploration noise
     parser.add_argument("--batch_size", default=100, type=int)          # Batch size for both actor and critic
-    parser.add_argument("--episode_size", default=1000, type=int)       # Episode size for tracking
+    parser.add_argument("--episode_size", default=1000, type=int)       # Maximum time step in an episode
     parser.add_argument("--discount", default=0.99, type=float)         # Discount factor
     parser.add_argument("--tau", default=0.005, type=float)             # Target network update rate,default: 0.005
     parser.add_argument("--policy_noise", default=0.2, type=float)      # Noise added to target policy during critic update
