@@ -7,9 +7,9 @@ This implementation uses [PyTorch](https://github.com/pytorch/pytorch) and Pytho
 Method is tested on [MuJoCo](http://www.mujoco.org/) continuous control tasks and [Atari 2600](https://github.com/openai/atari-py)
 in [OpenAI Gym v2](https://github.com/openai/gym). 
 
-## Dependencies
-- OpenAI Gym <=0.12.1
 
+### Dependencies
+- OpenAI Gym <=0.12.1
 
 ### Usage
 The paper results can be reproduced by running:
