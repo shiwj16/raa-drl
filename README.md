@@ -8,7 +8,6 @@ Method is tested on [MuJoCo](http://www.mujoco.org/) continuous control tasks an
 in [OpenAI Gym v2](https://github.com/openai/gym). 
 
 ## Dependencies
-
 - OpenAI Gym <=0.12.1
 
 
